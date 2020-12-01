@@ -1,0 +1,6 @@
+Vulnerabilities Found!
+======================
+
+Form Issue: Insecured form action /post.php found in HTML
+Comment Issue: Comment contains sensitive issue, key found
+Input issue: password is plain text
